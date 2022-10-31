@@ -33,4 +33,6 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ***
 
-![Image](ilkRepoImage.PNG)
+![Image][ilkRepoImage.PNG]
+
+[ilkRepoImage.PNG]: ilkRepoImage.PNG
